@@ -6,3 +6,6 @@
 3) Numer of Nerons 
 4) Sequence Length 
 5) Optimizer
+
+
+### it is still in the works, right now i am in the stage of creating an LSTM RNN using Estimators in tensorflow.
